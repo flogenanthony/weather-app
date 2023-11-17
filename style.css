@@ -44,7 +44,7 @@ p {
     outline: 0;
     background-color: white;
     color: black;
-    padding: 10px 15px;
+    padding: 10px 0px 10px 10px;
     height: 60%;
     border-radius: 30px;
     flex: 1;
