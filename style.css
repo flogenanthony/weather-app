@@ -22,9 +22,9 @@ p {
     max-width: 480px;
     background-color: rgba(0, 0, 0, 0.74);
     color: white;
-    margin: 50px auto 0;
+    margin: 30px auto 0;
     border-radius: 20px;
-    padding: 10px 35px;
+    padding: 15px 35px;
     text-align: center;
 }
 
@@ -132,7 +132,8 @@ footer {
     bottom: 0;
     width: 100%;
     background-color: #000000a6;
-    color: #fff;
+    color: #bdbdbd;
     text-align: center;
     padding: 10px;
+    font-size: 12px;
 }
